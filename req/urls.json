@@ -1,0 +1,6 @@
+{  
+   "senta":"http:\/\/senta.la\/api.php?&dever=encurtar&format=simple&url=",
+   "isgd":"https:\/\/is.gd\/create.php?format=simple&url=",
+   "vgd":"https:\/\/v.gd\/create.php?format=simple&url=",
+   "tiny":"http:\/\/tinyurl.com\/api-create.php?url="
+}
