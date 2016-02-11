@@ -1,3 +1,3 @@
 # ShortUrl
 
-Short url with senta.la tinyurl.com id.gd and v.gd
+Short url with "senta.la", "tinyurl.com", "is.gd" and "v.gd"
